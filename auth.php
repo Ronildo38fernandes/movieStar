@@ -33,7 +33,7 @@
             </div>
             <div class="form-group">
               <label for="lastname">Sobrenome:</label>
-              <input type="lastname" class="form-control" id="lastname"name="name" placeholder="Digite seu Sobrenome">
+              <input type="lastname" class="form-control" id="lastname"name="lastname" placeholder="Digite seu Sobrenome">
             </div>
             <div class="form-group">
               <label for="password">Senha:</label>
